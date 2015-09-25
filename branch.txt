@@ -1,5 +1,2 @@
 this is the master branch
 
-this is the V1 branch
-
-this is the V2 branch
