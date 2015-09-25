@@ -14,5 +14,3 @@ delete part of them and insert a new line.
 =======
 Creating a new branch is quick & simple.
 
-delete one line and insert a new line.
->>>>>>> V1
