@@ -1,3 +1,0 @@
-this is a init file in c folder 
-
-git new file
