@@ -6,7 +6,13 @@ not this line .
 Git commit -m "this is the noe about the file"
 this is the third line change/
 
+<<<<<<< HEAD
 this is 
 Creating a new branch is quick & simple.
 
 delete part of them and insert a new line.
+=======
+Creating a new branch is quick & simple.
+
+delete one line and insert a new line.
+>>>>>>> V1
