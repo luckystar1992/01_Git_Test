@@ -1,4 +1,4 @@
-this is a readme2 file .
+ithis is a readme2 file .
 Git init
 Git add filemname [--all]
 
@@ -7,5 +7,5 @@ Git commit -m "this is the noe about the file"
 this is the third line change/
 
 this is branch V1
-
 Creating a new branch is quick & simple.
+
